@@ -1,0 +1,518 @@
+{
+	"lastBuffer": "main.cpp",
+	"PNGFlags": {
+		"ALL": [
+			"palette=${appPath}/PokittoLib/Pokitto/POKITTO_CORE/PALETTES/miloslav.h",
+			"bpp=8"
+		]
+	},
+	"libs": {
+		"Pokitto": [
+			{
+				"recurse": "${appPath}/PokittoLib/Pokitto",
+				"ignore": "POKITTO_SIM|POKITTO_XTERNALS|Documentation|examples?|Physics|(?:.*_SIM.*)|main.cpp"
+			}
+		],
+		"linux": "Desktop",
+		"windows": "Desktop",
+		"darwin": "Desktop",
+		"Desktop": [
+			{
+				"recurse": "${appPath}/PokittoLib/Pokitto",
+				"ignore": "BmpImage.cpp|ChaN|old_32bitSDL|libpff|SDFileSystem|File/ChaN|USBDevice|tinydir/tests|tinydir/samples|JoyHat|mbed-pokitto|POKITTO_HW|POKITTO_XTERNALS|PokittoDisk.cpp|PokittoBattery.cpp|Documentation|examples?|Physics|main.cpp|Pokitto_simsound.cpp"
+			}
+		]
+	},
+	"SFlags": {
+		"Pokitto": [
+			"-I${projectPath}",
+			"-mcpu=cortex-m0plus",
+			"-mthumb"
+		]
+	},
+	"CPPFlags": {
+		"DEBUG": [
+			"-Og",
+			"-g3",
+			"-ggdb"
+		],
+		"RELEASE": [
+			"-O3"
+		],
+		"Pokitto": [
+			"-D_OSCT=2",
+			"-I${projectPath}",
+			"-DPOKITTO",
+			"-fno-rtti",
+			"-Wno-pointer-arith",
+			"-c",
+			"-fno-exceptions",
+			"-fno-builtin",
+			"-ffunction-sections",
+			"-fdata-sections",
+			"-funsigned-char",
+			"-MMD",
+			"-fno-delete-null-pointer-checks",
+			"-fomit-frame-pointer",
+			"-mcpu=cortex-m0plus",
+			"-mthumb",
+			"-Wno-psabi",
+			"-Wno-conversion-null",
+			"-Wno-narrowing",
+			"-Wno-write-strings",
+			"-DTARGET_LPC11U68",
+			"-D__MBED__=1",
+			"-DDEVICE_I2CSLAVE=1",
+			"-DTARGET_LIKE_MBED",
+			"-DTARGET_NXP",
+			"-D__MBED_CMSIS_RTOS_CM",
+			"-DDEVICE_RTC=1",
+			"-DTOOLCHAIN_object",
+			"-D__CMSIS_RTOS",
+			"-DTOOLCHAIN_GCC",
+			"-DTARGET_CORTEX_M",
+			"-DTARGET_M0P",
+			"-DTARGET_UVISOR_UNSUPPORTED",
+			"-DDEVICE_SERIAL=1",
+			"-DDEVICE_INTERRUPTIN=1",
+			"-DTARGET_LPCTarget",
+			"-DTARGET_CORTEX",
+			"-DDEVICE_I2C=1",
+			"-D__CORTEX_M0PLUS",
+			"-DTARGET_FF_ARDUINO",
+			"-DTARGET_RELEASE",
+			"-DMBED_BUILD_TIMESTAMP=1526394586.66",
+			"-DARM_MATH_CM0PLUS",
+			"-DTARGET_LPC11U6X",
+			"-DDEVICE_SLEEP=1",
+			"-DTOOLCHAIN_GCC_ARM",
+			"-DDEVICE_SPI=1",
+			"-DDEVICE_ANALOGIN=1",
+			"-DDEVICE_PWMOUT=1",
+			"-DTARGET_LIKE_CORTEX_M0"
+		],
+		"Desktop": [
+			"-I${projectPath}",
+			"-DPOK_SIM",
+			"-Wall",
+			"-std=gnu++17",
+			"-fsigned-char",
+			"-DPOK_SIM",
+			"-fno-rtti",
+			"-Wno-pointer-arith",
+			"-c",
+			"-fno-builtin",
+			"-ffunction-sections",
+			"-fdata-sections",
+			"-funsigned-char",
+			"-MMD",
+			"-fno-delete-null-pointer-checks"
+		],
+		"ALL": [
+			"-std=c++17"
+		],
+		"linux": {
+			"extend": "Desktop",
+			"flags": [
+				"-DPROJ_LINUX=1",
+				"-D_REENTRANT"
+			]
+		},
+		"windows": "Desktop"
+	},
+	"CFlags": {
+		"DEBUG": [
+			"-Og",
+			"-g3",
+			"-ggdb"
+		],
+		"RELEASE": [
+			"-O3"
+		],
+		"Pokitto": [
+			"-D_OSCT=2",
+			"-I${projectPath}",
+			"-DPOKITTO",
+			"-Wno-pointer-arith",
+			"-c",
+			"-fno-exceptions",
+			"-fno-builtin",
+			"-ffunction-sections",
+			"-fdata-sections",
+			"-funsigned-char",
+			"-MMD",
+			"-fno-delete-null-pointer-checks",
+			"-fomit-frame-pointer",
+			"-mcpu=cortex-m0plus",
+			"-mthumb",
+			"-Wno-psabi",
+			"-Wwrite-strings",
+			"-DTARGET_LPC11U68",
+			"-D__MBED__=1",
+			"-DDEVICE_I2CSLAVE=1",
+			"-DTARGET_LIKE_MBED",
+			"-DTARGET_NXP",
+			"-D__MBED_CMSIS_RTOS_CM",
+			"-DDEVICE_RTC=1",
+			"-DTOOLCHAIN_object",
+			"-D__CMSIS_RTOS",
+			"-DTOOLCHAIN_GCC",
+			"-DTARGET_CORTEX_M",
+			"-DTARGET_M0P",
+			"-DTARGET_UVISOR_UNSUPPORTED",
+			"-DDEVICE_SERIAL=1",
+			"-DDEVICE_INTERRUPTIN=1",
+			"-DTARGET_LPCTarget",
+			"-DTARGET_CORTEX",
+			"-DDEVICE_I2C=1",
+			"-D__CORTEX_M0PLUS",
+			"-DTARGET_FF_ARDUINO",
+			"-DTARGET_RELEASE",
+			"-DMBED_BUILD_TIMESTAMP=1526394586.66",
+			"-DARM_MATH_CM0PLUS",
+			"-DTARGET_LPC11U6X",
+			"-DDEVICE_SLEEP=1",
+			"-DTOOLCHAIN_GCC_ARM",
+			"-DDEVICE_SPI=1",
+			"-DDEVICE_ANALOGIN=1",
+			"-DDEVICE_PWMOUT=1",
+			"-DTARGET_LIKE_CORTEX_M0"
+		],
+		"Desktop": [
+			"-I${projectPath}",
+			"-DPOK_SIM",
+			"-Wall",
+			"-fsigned-char",
+			"-DPOK_SIM",
+			"-Wno-pointer-arith",
+			"-c",
+			"-fno-builtin",
+			"-ffunction-sections",
+			"-fdata-sections",
+			"-funsigned-char",
+			"-MMD",
+			"-fno-delete-null-pointer-checks"
+		],
+		"ALL": [],
+		"linux": "Desktop",
+		"windows": "Desktop",
+		"darwin": "Desktop"
+	},
+	"GDBFlags": {
+		"Pokitto": [
+			"${projectPath}/${projectName}.elf"
+		]
+	},
+	"emuFlags": {
+		"Pokitto": [
+			"${projectPath}/${projectName}.bin"
+		]
+	},
+	"ELF2BINFlags": {
+		"Pokitto": [
+			"-O",
+			"binary",
+			"${projectPath}/${projectName}.elf",
+			"${projectPath}/${projectName}.bin"
+		]
+	},
+	"LDFlags": {
+		"RELEASE": [
+			"-O3"
+		],
+		"DEBUG": [
+			"-Og",
+			"-g3",
+			"-ggdb"
+		],
+		"Pokitto": [
+			"-Wl,--gc-sections",
+			"-Wl,-n",
+			"--specs=nano.specs",
+			"-mcpu=cortex-m0plus",
+			"-mthumb",
+			"-Wl,--undefined=g_pfnVectors",
+			"-Wl,--undefined=boot",
+			"-T",
+			"${appPath}/PokittoLib/Pokitto/mbed-pokitto/targets/cmsis/TARGET_NXP/TARGET_LPC11U6X/TOOLCHAIN_GCC_ARM/TARGET_LPC11U68/LPC11U68.ld",
+			"--output",
+			"${projectPath}/${projectName}.elf",
+			"$objectFiles",
+			"-Wl,--start-group",
+			"-lstdc++",
+			"-lsupc++",
+			"-lm",
+			"-lc",
+			"-lgcc",
+			"-lnosys",
+			"-Wl,--end-group"
+		],
+		"linux": [
+			"$objectFiles",
+			"-lpthread",
+			"-lSDL2",
+			"--output",
+			"${projectPath}/${projectName}"
+		],
+		"windows": [
+			"-static",
+			"-lmingw32",
+			"-L${appPath}/PokittoLib/Pokitto/POKITTO_SIM/SDL2/lib",
+			"-lSDL2main",
+			"-lSDL2",
+			"-lm",
+			"-ldinput8",
+			"-ldxguid",
+			"-ldxerr8",
+			"-luser32",
+			"-lgdi32",
+			"-lwinmm",
+			"-limm32",
+			"-lole32",
+			"-loleaut32",
+			"-lshell32",
+			"-lversion",
+			"-luuid",
+			"-lsetupapi",
+			"-static-libgcc",
+			"-mwindows",
+			"--output",
+			"${projectPath}/${projectName}.exe",
+			"$objectFiles"
+		]
+	},
+	"target": "windows",
+	"pipelines": {
+		"Pokitto": [
+			"img-to-c",
+			"compile-cpp",
+			"compile-ld",
+			"compile-bin",
+			"make-img"
+		],
+		"Desktop": [
+			"img-to-c",
+			"compile-cpp",
+			"compile-ld"
+		],
+		"linux": "Desktop",
+		"windows": "Desktop"
+	},
+	"meta": {
+		"": {},
+		"\\main.cpp": {
+			"sdcard": false
+		},
+		"\\maps": {
+			"sdcard": false
+		},
+		"\\maps.h": {
+			"sdcard": false
+		},
+		"\\My_settings.h": {
+			"sdcard": false
+		},
+		"\\project.json": {
+			"sdcard": false
+		},
+		"\\scripts": {
+			"sdcard": false
+		},
+		"\\Smile.h": {
+			"sdcard": false
+		},
+		"\\Smile.png": {
+			"sdcard": false
+		},
+		"\\maps\\basictiles_2.png": {
+			"sdcard": false
+		},
+		"\\maps\\gardenPath.tmx": {
+			"sdcard": false
+		},
+		"\\maps\\magecity_1.png": {
+			"sdcard": false
+		},
+		"\\scripts\\TilemapConverter.js": {
+			"sdcard": false
+		},
+		"\\maps\\basictiles_2.h": {
+			"sdcard": false
+		},
+		"\\maps\\magecity_1.h": {
+			"sdcard": false
+		},
+		"\\TilemapProject.elf": {
+			"sdcard": false
+		},
+		"\\TilemapProject.bin": {
+			"sdcard": false
+		},
+		"\\maps\\gardenPath.tmx.uLIQfI": {
+			"sdcard": false
+		},
+		"\\_Joe_2.elf": {
+			"sdcard": false
+		},
+		"\\_Joe_2.bin": {
+			"sdcard": false
+		},
+		"\\New folder": {
+			"sdcard": false
+		},
+		"\\raw": {
+			"sdcard": false
+		},
+		"\\raw\\Newtonsoft.Json.dll": {
+			"sdcard": false
+		},
+		"\\raw\\_img2pok.exe": {
+			"sdcard": false
+		},
+		"\\raw\\maprecon.exe": {
+			"sdcard": false
+		},
+		"\\raw\\balls.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\Palette.json": {
+			"sdcard": false
+		},
+		"\\sprites.h": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.elf": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin": {
+			"sdcard": false
+		},
+		"\\raw\\background.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\background_Tiles.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\background.map": {
+			"sdcard": false
+		},
+		"\\raw\\background_Info.txt": {
+			"sdcard": false
+		},
+		"\\maps\\background_Tiles.bmp": {
+			"sdcard": false
+		},
+		"\\maps\\background.tsx.iNpjLq": {
+			"sdcard": false
+		},
+		"\\maps\\background.tsx": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.WesgSh": {
+			"sdcard": false
+		},
+		"\\raw\\SavD75D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\sprite_palette.png": {
+			"sdcard": false
+		},
+		"\\raw\\sprite_palette.h": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4EDA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav49EC.tmp": {
+			"sdcard": false
+		},
+		"\\New Text Document.txt": {
+			"sdcard": false
+		},
+		"\\background.h": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.1.png": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.2.gif": {
+			"sdcard": false
+		},
+		"\\ball_test.gif": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.1.h": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.1.gif": {
+			"sdcard": false
+		},
+		"\\raw\\pal16.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav186D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDBA4.tmp": {
+			"sdcard": false
+		},
+		"\\buttonhandling.h": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.exe": {
+			"sdcard": false
+		},
+		"\\EEP.ROM": {
+			"sdcard": false
+		},
+		"\\raw\\Sav45B4.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7215.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav1828.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav16B0.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3320.tmp": {
+			"sdcard": false
+		},
+		"\\VClip": {
+			"sdcard": false
+		},
+		"\\VClip\\ffmpeg.exe": {
+			"sdcard": false
+		},
+		"\\VClip\\silence.wav": {
+			"sdcard": false
+		},
+		"\\VClip\\VClip.exe": {
+			"sdcard": false
+		},
+		"\\VClip\\Frames": {
+			"sdcard": false
+		},
+		"\\VClip\\loopback.wav": {
+			"sdcard": false
+		},
+		"\\VClip\\output.gif": {
+			"sdcard": false
+		},
+		"\\VClip\\test01.gif": {
+			"sdcard": false
+		},
+		"\\raw\\Sav91FC.tmp": {
+			"sdcard": false
+		}
+	},
+	"BUILDFlags": {
+		"Pokitto": {}
+	},
+	"ideVersion": 10000
+}
