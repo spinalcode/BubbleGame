@@ -281,7 +281,7 @@
 			"$objectFiles"
 		]
 	},
-	"target": "windows",
+	"target": "Pokitto",
 	"pipelines": {
 		"Pokitto": [
 			"img-to-c",
@@ -508,6 +508,2535 @@
 			"sdcard": false
 		},
 		"\\raw\\Sav91FC.tmp": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.1.gif.~AS.TMP": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7EA4.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4B8A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7102.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7AC9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA9E1.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8B08.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav37EA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7025.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB400.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4936.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\font88.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav90F3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8C9B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE89E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCDC5.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav207C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBE83.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav56B4.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6BEC.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7736.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav33C1.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA1AE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8859.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4266.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3DF0.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC6FF.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavEF97.tmp": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.2.gif.~AS.TMP": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5768.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav148.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav867B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5940.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2026.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6D14.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCFC5.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav9973.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7380.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav1376.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavAD7E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6584.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBDA3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB869.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2B5E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav637C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE715.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav38B4.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav44CB.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4E28.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF3B7.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA38C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav932F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF51D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF370.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav1493.tmp": {
+			"sdcard": false
+		},
+		"\\FixedPoints": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\Details.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\FixedPoints.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\SFixed.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\SFixedBase.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\SFixedFreeFunctions.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\SFixedMemberFunctions.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\UFixed.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\UFixedBase.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\UFixedFreeFunctions.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\UFixedMemberFunctions.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints\\Utils.h": {
+			"sdcard": false
+		},
+		"\\FixedPoints.h": {
+			"sdcard": false
+		},
+		"\\FixedPointsCommon": {
+			"sdcard": false
+		},
+		"\\FixedPointsCommon.h": {
+			"sdcard": false
+		},
+		"\\FixedPointsCommon\\FixedPointsCommon.h": {
+			"sdcard": false
+		},
+		"\\FixedPointsCommon\\SFixedCommon.h": {
+			"sdcard": false
+		},
+		"\\FixedPointsCommon\\UFixedCommon.h": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3C87.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavFC0E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav900D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBED9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav365A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD212.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBC88.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav346B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2B00.tmp": {
+			"sdcard": false
+		},
+		"\\font.h": {
+			"sdcard": false
+		},
+		"\\raw\\SavD4DD.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB7CA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5B3B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2CCB.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5DAD.tmp": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.qXpfAc": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.havVgb": {
+			"sdcard": false
+		},
+		"\\raw\\SavBB92.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE3BD.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5FC4.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDFFF.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA68A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB12F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6C25.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2925.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8F3D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE9DA.tmp": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.PsAuUt": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5F6A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6B63.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavEB28.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDAB7.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE6CA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4866.tmp": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.cFJBcX": {
+			"sdcard": false
+		},
+		"\\raw\\SavE931.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7AD9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav1AF0.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3FCE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav64F6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\logo_big.png": {
+			"sdcard": false
+		},
+		"\\raw\\logo_full.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\logo_shaddow.png": {
+			"sdcard": false
+		},
+		"\\raw\\logo_small.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\logo_small_2.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\logo_shaddow.h": {
+			"sdcard": false
+		},
+		"\\raw\\logo_big.h": {
+			"sdcard": false
+		},
+		"\\raw\\Image1.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\background_Tiles_Tiles.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\background_Tiles.map": {
+			"sdcard": false
+		},
+		"\\raw\\background_Tiles_Info.txt": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.EnHKaD": {
+			"sdcard": false
+		},
+		"\\maps\\background.tmx.AvQlgT": {
+			"sdcard": false
+		},
+		"\\LICENSE": {
+			"sdcard": false
+		},
+		"\\raw\\SavE463.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4A19.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2DB2.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC65C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC17A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB519.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB4A3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavEBCE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav70B2.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC414.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD22E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCA0D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCC37.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav809E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav1BC6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav56F7.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavAB87.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC9AE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2211.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB54A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5C82.tmp": {
+			"sdcard": false
+		},
+		"\\music.h": {
+			"sdcard": false
+		},
+		"\\snd.h": {
+			"sdcard": false
+		},
+		"\\tune.h": {
+			"sdcard": false
+		},
+		"\\music_things.h": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.eeprom": {
+			"sdcard": false
+		},
+		"\\raw\\New folder": {
+			"sdcard": false
+		},
+		"\\raw\\music": {
+			"sdcard": true
+		},
+		"\\raw\\music\\s_1.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_2.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_3.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_4.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\New Text Document.txt": {
+			"sdcard": false
+		},
+		"\\raw\\music\\music.txt": {
+			"sdcard": false
+		},
+		"\\raw\\music\\Wav to Pokitto.url": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_01.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_02.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_03.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_04.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\BHD-Crispy_Tune_1.mod": {
+			"sdcard": false
+		},
+		"\\raw\\music\\credits.txt": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_002.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_003.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_006.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_007.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_008.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_009.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_010.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_013.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_014.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_015.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\yummy.mod": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_06.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_07.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_08.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_09.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_10.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_13.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_14.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\s_15.wav": {
+			"sdcard": false
+		},
+		"\\raw\\music\\dir.txt": {
+			"sdcard": false
+		},
+		"\\raw\\music\\pmf_converter.exe": {
+			"sdcard": false
+		},
+		"\\raw\\music\\~music.h.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\music\\music.h": {
+			"sdcard": false
+		},
+		"\\raw\\music\\crispy.mod": {
+			"sdcard": false
+		},
+		"\\scripts\\ModConverter.js": {
+			"sdcard": false
+		},
+		"\\yummy.mod": {
+			"sdcard": false
+		},
+		"\\music": {
+			"sdcard": true
+		},
+		"\\music\\yummy.mod": {
+			"sdcard": false
+		},
+		"\\pmf_player": {
+			"sdcard": false
+		},
+		"\\pmf_player\\Arduino.h": {
+			"sdcard": false
+		},
+		"\\pmf_player\\ModConverter.js": {
+			"sdcard": false
+		},
+		"\\pmf_player\\music.h": {
+			"sdcard": false
+		},
+		"\\pmf_player\\PMFSource.hpp": {
+			"sdcard": false
+		},
+		"\\pmf_player\\pmf_converter": {
+			"sdcard": false
+		},
+		"\\pmf_player\\pmf_converter.exe": {
+			"sdcard": false
+		},
+		"\\pmf_player\\pmf_data.h": {
+			"sdcard": false
+		},
+		"\\pmf_player\\pmf_player.cpp": {
+			"sdcard": false
+		},
+		"\\pmf_player\\pmf_player.h": {
+			"sdcard": false
+		},
+		"\\pmf_player\\pmf_player_pokitto.cpp": {
+			"sdcard": false
+		},
+		"\\pmf_player\\README.md": {
+			"sdcard": false
+		},
+		"\\music\\~yummy.pmf.tmp": {
+			"sdcard": false
+		},
+		"\\music\\yummy.pmf": {
+			"sdcard": false
+		},
+		"\\music.cpp": {
+			"sdcard": false
+		},
+		"\\raw\\music\\yummy.raw": {
+			"sdcard": false
+		},
+		"\\sound.h": {
+			"sdcard": false
+		},
+		"\\raw\\Sav897B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavAD12.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\topbar.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\bottombar.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\warp.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavADB3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav1803.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4965.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\bgballs.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavAD7D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDE9C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\bgballs2.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7B1B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav38D0.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav15A9.tmp": {
+			"sdcard": false
+		},
+		"\\tables.h": {
+			"sdcard": false
+		},
+		"\\raw\\arrow.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\temp24.tif": {
+			"sdcard": false
+		},
+		"\\raw\\temp24.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\_temp.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_01.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_02.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_03.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_04.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_05.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_06.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_07.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_08.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_09.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_10.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_11.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_12.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_13.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_14.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_15.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_16.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_17.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_18.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_19.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_20.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_21.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_22.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_23.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_24.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_25.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_26.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_27.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_28.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_29.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_30.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_31.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_32.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_33.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_34.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_35.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_36.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_37.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_38.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_39.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_40.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_41.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_42.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_43.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_44.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_45.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_46.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_47.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_48.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_49.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_50.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_51.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_52.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_53.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_54.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_55.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_56.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_57.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_58.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_59.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_60.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_61.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_62.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_63.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_64.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_65.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_66.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_67.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_68.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_69.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_70.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_71.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_72.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_73.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_74.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_75.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_76.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_77.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_78.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_79.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_80.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_81.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_82.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_83.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_84.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_85.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_86.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_87.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_88.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_89.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\output_90.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_90.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_01.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_02.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_03.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_04.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_05.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_06.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_07.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_08.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_09.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_10.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_11.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_12.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_13.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_14.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_15.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_16.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_17.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_18.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_19.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_20.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_21.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_22.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_23.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_24.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_25.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_26.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_27.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_28.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_29.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_30.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_31.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_32.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_33.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_34.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_35.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_36.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_37.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_38.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_39.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_40.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_41.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_42.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_43.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_44.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_45.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_46.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_47.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_48.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_49.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_50.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_51.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_52.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_53.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_54.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_55.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_56.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_57.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_58.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_59.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_60.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_61.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_62.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_63.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_64.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_65.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_67.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_68.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_69.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_70.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_71.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_72.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_73.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_74.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_75.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_76.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_77.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_66.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_78.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_79.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_80.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_81.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_82.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_83.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_84.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_85.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_86.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_87.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_88.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\output_89.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\temp24.tif": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\temp24.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_temp.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_001.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_002.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_003.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_004.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_005.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_006.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_007.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_008.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_009.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_010.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_011.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_012.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_013.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_014.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_015.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_016.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_017.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_018.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_019.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_020.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_021.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_022.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_023.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_024.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_025.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_026.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_027.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_028.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_029.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_030.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_031.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_032.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_033.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_034.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_035.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_036.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_037.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_038.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_039.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_040.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_041.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_042.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_043.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_044.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_045.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_046.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_047.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_048.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_049.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_050.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_051.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_052.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_053.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_054.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_055.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_056.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_057.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_058.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_059.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_060.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_061.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_062.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_063.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_064.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_065.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_066.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_067.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_068.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_069.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_070.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_071.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_072.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_073.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_074.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_075.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_076.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_077.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_078.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_079.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_080.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_081.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_082.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_083.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_084.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_085.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_086.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_087.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_088.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_089.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_090.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_091.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_092.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_093.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_094.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_095.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_096.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_097.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_098.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_099.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_100.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_101.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_102.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_103.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_104.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_105.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_106.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_107.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_108.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_109.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_110.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_111.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_112.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_113.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_114.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_115.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_116.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_117.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_118.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_119.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_120.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_121.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_122.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_123.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_124.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_125.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_126.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_127.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_128.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_129.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_130.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_131.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_132.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_133.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_134.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_135.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_136.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_137.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_138.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_139.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_140.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_141.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_142.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_143.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_144.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_145.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_146.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_147.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_148.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_149.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_150.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_151.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_152.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_153.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_154.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_155.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_156.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_157.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_158.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_159.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_160.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_161.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_162.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_163.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_164.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_165.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_166.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_167.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_168.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_169.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_170.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_171.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_172.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_173.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_174.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_175.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_176.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_177.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_178.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_179.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_180.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_01.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_02.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_03.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_04.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_05.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_06.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_07.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_08.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_09.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_10.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_11.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_12.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_13.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_14.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_15.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_16.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_17.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_18.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_19.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_20.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_21.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_22.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_23.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_24.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_25.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_26.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_27.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_28.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_29.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_30.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_31.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_32.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_33.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_34.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_35.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_36.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_37.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_38.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_39.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_40.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_41.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_42.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_43.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_44.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_45.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_46.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_47.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_48.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_49.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_50.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_51.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_52.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_53.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_54.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_55.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_56.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_57.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_58.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_59.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_60.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_61.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_62.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_63.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_64.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_65.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_66.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_67.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_68.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_69.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_70.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_71.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_72.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_73.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_74.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_75.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_76.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_77.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_78.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_79.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_80.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_81.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_82.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_83.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_84.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_85.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_86.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_87.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_88.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_89.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\_90.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\Sav62C2.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\Sav95EC.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\SavD116.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\rotated_sprite\\Sav1519.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBE4D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav42FF.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE9C3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8570.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\catapult.bmp": {
+			"sdcard": false
+		},
+		"\\image.h": {
+			"sdcard": false
+		},
+		"\\raw\\SavA57A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC123.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav9483.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7CFE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6AE6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE68E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3E57.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\cannon.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA092.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCDEB.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC71E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav432D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\cannonb.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav73E2.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav489F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD1CE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav649D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav15B2.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav332E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\stand.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD6E1.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2EDA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5D14.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7E6E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2A2F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2684.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav35B8.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav518C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav660E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA84B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav20B9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4124.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4E45.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8FC6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7C1A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav18A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav154E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBB76.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7DF6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDD4F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD254.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8CFD.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3A4D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE80C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavBD94.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav55EB.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD708.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD939.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav23A9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav3BD0.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5AC.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2076.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4574.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE6E6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav32CB.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE130.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav37D8.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav706E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE249.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav29C9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav188E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4C6D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD9AC.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav14DF.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4009.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF091.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC5BC.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6A80.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4C3D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav997B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav16B4.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCB1F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav27BA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5007.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav573.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\music\\yummy.mp3": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5FA1.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDA9.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4DA3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6519.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavA30C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavD86B.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7914.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF0A.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavAD81.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav725E.tmp": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_2020_08_18.zip": {
+			"sdcard": false
+		},
+		"\\raw\\SavAD94.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\door.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\background.map.bak": {
+			"sdcard": false
+		},
+		"\\raw\\Sav7597.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\doorb.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav31E.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav778D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav98A3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavCBB0.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF9DE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav47B3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8A4C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\doorb_old.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDC10.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav5858.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF4AA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC8BE.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav309F.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\full door.psp": {
+			"sdcard": false
+		},
+		"\\raw\\other door.psp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav26B1.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavAE31.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB4A7.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF5CB.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF543.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav851C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8B48.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2678.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2CC2.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav338D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB1CA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavEEF6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav4644.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavDB80.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavE7D5.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2CB8.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavFA.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavC5C6.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav603D.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav6F23.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav8FCC.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavF0F3.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\Sav2A3C.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\SavB061.tmp": {
+			"sdcard": false
+		},
+		"\\raw\\font.bmp": {
+			"sdcard": false
+		},
+		"\\raw\\levels": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev7.psp": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev6.psp": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev5.psp": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev4.psp": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev3.psp": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev8.psp": {
+			"sdcard": false
+		},
+		"\\raw\\levels\\lev9.psp": {
+			"sdcard": false
+		},
+		"\\music\\New folder": {
+			"sdcard": false
+		},
+		"\\music\\joegoespop": {
+			"sdcard": false
+		},
+		"\\music\\joegoespop\\yummy.raw": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.3.gif": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.bin.4.gif": {
+			"sdcard": false
+		},
+		"\\_PuzzleBobble_.zip": {
 			"sdcard": false
 		}
 	},

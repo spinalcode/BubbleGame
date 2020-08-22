@@ -23,7 +23,7 @@ void UpdatePad(int joy_code){
     ExPad = CompletePad;
     CompletePad = joy_code;
     UPDATEPAD(HELD, CompletePad); // held
-    UPDATEPAD(RELEASE, (ExPad & (~CompletePad))); // released
+    UPDATEPAD(RELEASED, (ExPad & (~CompletePad))); // released
     UPDATEPAD(NEW, (CompletePad & (~ExPad))); // newpress
 }
 
